@@ -6,7 +6,7 @@ I’m the solo developer behind **[allc.dev](https://allc.dev)**. I build useful
 
 My background is in software architecture, working with Delphi, PHP/Laravel, Vue and Flutter. Here, I share the independent products I design, build and maintain.
 
-**[Explore the apps](https://allc.dev/#apps)** · **[Google Play](https://apps.allc.dev)** · **[YouTube demos](https://www.youtube.com/@allc-dev)** · **[Get in touch](mailto:allc.dev@outlook.com)**
+**[Explore the apps](https://allc.dev/#apps)** · **[Google Play](https://apps.allc.dev)** · **[YouTube demos](https://www.youtube.com/@allc-dev)** · **[Email](mailto:allc.dev@outlook.com)** · **[WhatsApp](https://wa.me/5512988543055)**
 
 ## A family of useful apps
 
@@ -28,10 +28,10 @@ Bíblia and BookQuest are available in Portuguese. Check each Google Play listin
 
 ## Made with care. Improved together.
 
-Have a suggestion or found a bug? Your feedback helps me decide what to improve next. You can reach me through [the website](https://allc.dev/#contact) or [email](mailto:allc.dev@outlook.com).
+Have a suggestion or found a bug? Your feedback helps me decide what to improve next. You can reach me through [the website](https://allc.dev/#contact), by [email](mailto:allc.dev@outlook.com) or [WhatsApp](https://wa.me/5512988543055).
 
 **ALLC PRO** is the existing subscription shared across my apps. Benefits and subscription options are explained inside each app.
 
 ---
 
-[Website](https://allc.dev) · [Google Play](https://apps.allc.dev) · [YouTube](https://www.youtube.com/@allc-dev) · [GitHub](https://github.com/allc-dev)
+[Website](https://allc.dev) · [Google Play](https://apps.allc.dev) · [YouTube](https://www.youtube.com/@allc-dev) · [WhatsApp](https://wa.me/5512988543055)
