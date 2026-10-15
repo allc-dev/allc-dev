@@ -12,7 +12,7 @@ Designing mission-critical enterprise systems & building the independent **ALLC 
 </p>
 
 <p align="center">
-  <a href="https://apps.allc.dev"><img src="https://img.shields.io/badge/Google_Play-ALLC_Apps-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play" /></a>
+  <a href="https://apps.allc.dev"><img src="https://img.shields.io/badge/Google_Play-allc_dev-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play" /></a>
   <a href="https://www.youtube.com/@allc-dev"><img src="https://img.shields.io/badge/YouTube-@allc--dev-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://www.linkedin.com/in/andrellopes"><img src="https://img.shields.io/badge/LinkedIn-André_Costa-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:allc.dev@outlook.com"><img src="https://img.shields.io/badge/Email-allc.dev@outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
