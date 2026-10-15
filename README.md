@@ -23,17 +23,17 @@ Modular cross-platform monorepo built in **Flutter** (**Melos**, **Riverpod**, *
 
 | App | Category | Engineering & Product Highlights | Google Play |
 | :--- | :--- | :--- | :---: |
-| [**Bible**](https://play.google.com/store/apps/details?id=dev.allc.a_bible) | Books & Reference | High-performance offline Scripture reader with embedded multi-translation SQLite databases. | [Get App ↗](https://play.google.com/store/apps/details?id=dev.allc.a_bible) |
-| [**BookQuest**](https://play.google.com/store/apps/details?id=dev.allc.a_book) | Books & Trivia | Interactive Scripture memory challenges, quizzes, and structured exploration. | [Get App ↗](https://play.google.com/store/apps/details?id=dev.allc.a_book) |
-| [**ChessTime**](https://play.google.com/store/apps/details?id=dev.allc.a_chess_time) | Board Games | Professional tournament chess clock supporting Fischer, Bronstein, and US Delay time controls. | [Get App ↗](https://play.google.com/store/apps/details?id=dev.allc.a_chess_time) |
-| [**ExacTime**](https://play.google.com/store/apps/details?id=dev.allc.a_clock) | Utilities | Nightstand clock with native Text-to-Speech (TTS) voice announcements and progressive alarms. | [Get App ↗](https://play.google.com/store/apps/details?id=dev.allc.a_clock) |
-| [**Focodoro**](https://play.google.com/store/apps/details?id=dev.allc.a_focus_time) | Productivity | Block-based Pomodoro focus timer with session tags, daily goal tracking, and analytics. | [Get App ↗](https://play.google.com/store/apps/details?id=dev.allc.a_focus_time) |
-| [**Habitus**](https://play.google.com/store/apps/details?id=dev.allc.a_habit_time) | Lifestyle | Daily habit tracking with resilient streak protection, schedule reminders, and home widgets. | [Get App ↗](https://play.google.com/store/apps/details?id=dev.allc.a_habit_time) |
-| [**MultiCounter**](https://play.google.com/store/apps/details?id=dev.allc.a_counter) | Productivity | Multi-counter clicker, venue occupancy monitoring, cycle repeats, and on-device tripwire sensor. | [Get App ↗](https://play.google.com/store/apps/details?id=dev.allc.a_counter) |
-| [**Nexus**](https://play.google.com/store/apps/details?id=dev.allc.a_mind_time) | Brain Training | Cognitive training suite with 15 mini-games targeting working memory, focus, and mental agility. | [Get App ↗](https://play.google.com/store/apps/details?id=dev.allc.a_mind_time) |
-| [**Petlog**](https://play.google.com/store/apps/details?id=dev.allc.a_pet) | Pet Care | Comprehensive pet health management (vaccinations, hygiene, medications, and veterinary records). | [Get App ↗](https://play.google.com/store/apps/details?id=dev.allc.a_pet) |
-| [**Quietude**](https://play.google.com/store/apps/details?id=dev.allc.a_noise_time) | Health & Sleep | Ambient sound generator featuring customizable white/pink/brown noise mixing and foreground audio. | [Get App ↗](https://play.google.com/store/apps/details?id=dev.allc.a_noise_time) |
-| [**Serena**](https://play.google.com/store/apps/details?id=dev.allc.a_mood_time) | Health & Wellness | Mood tracking journal with statistical correlations, activity check-ins, and 100% offline storage. | [Get App ↗](https://play.google.com/store/apps/details?id=dev.allc.a_mood_time) |
+| **Bible** | Books & Reference | High-performance offline Scripture reader with embedded multi-translation SQLite databases. | [Get App ↗](https://play.google.com/store/apps/details?id=dev.allc.a_bible) |
+| **BookQuest** | Books & Trivia | Interactive Scripture memory challenges, quizzes, and structured exploration. | [Get App ↗](https://play.google.com/store/apps/details?id=dev.allc.a_book) |
+| **ChessTime** | Board Games | Professional tournament chess clock supporting Fischer, Bronstein, and US Delay time controls. | [Get App ↗](https://play.google.com/store/apps/details?id=dev.allc.a_chess_time) |
+| **ExacTime** | Utilities | Nightstand clock with native Text-to-Speech (TTS) voice announcements and progressive alarms. | [Get App ↗](https://play.google.com/store/apps/details?id=dev.allc.a_clock) |
+| **Focodoro** | Productivity | Block-based Pomodoro focus timer with session tags, daily goal tracking, and analytics. | [Get App ↗](https://play.google.com/store/apps/details?id=dev.allc.a_focus_time) |
+| **Habitus** | Lifestyle | Daily habit tracking with resilient streak protection, schedule reminders, and home widgets. | [Get App ↗](https://play.google.com/store/apps/details?id=dev.allc.a_habit_time) |
+| **MultiCounter** | Productivity | Multi-counter clicker, venue occupancy monitoring, cycle repeats, and on-device tripwire sensor. | [Get App ↗](https://play.google.com/store/apps/details?id=dev.allc.a_counter) |
+| **Nexus** | Brain Training | Cognitive training suite with 15 mini-games targeting working memory, focus, and mental agility. | [Get App ↗](https://play.google.com/store/apps/details?id=dev.allc.a_mind_time) |
+| **Petlog** | Pet Care | Comprehensive pet health management (vaccinations, hygiene, medications, and veterinary records). | [Get App ↗](https://play.google.com/store/apps/details?id=dev.allc.a_pet) |
+| **Quietude** | Health & Sleep | Ambient sound generator featuring customizable white/pink/brown noise mixing and foreground audio. | [Get App ↗](https://play.google.com/store/apps/details?id=dev.allc.a_noise_time) |
+| **Serena** | Health & Wellness | Mood tracking journal with statistical correlations, activity check-ins, and 100% offline storage. | [Get App ↗](https://play.google.com/store/apps/details?id=dev.allc.a_mood_time) |
 
 👉 **[View Complete Catalog on Google Play](https://apps.allc.dev)**
 
