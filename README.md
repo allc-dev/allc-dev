@@ -6,12 +6,6 @@
 Designing mission-critical enterprise systems & building the independent **ALLC Apps** ecosystem.
 
 <p align="center">
-  <a href="https://wakatime.com/@cea0656c-6d19-4df8-86c9-3e3abee7d832">
-    <img src="https://wakatime.com/badge/user/cea0656c-6d19-4df8-86c9-3e3abee7d832.svg" alt="Total time coded" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://apps.allc.dev"><img src="https://img.shields.io/badge/Google_Play-allc_dev-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play" /></a>
   <a href="https://www.youtube.com/@allc-dev"><img src="https://img.shields.io/badge/YouTube-@allc--dev-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://www.linkedin.com/in/andrellopes"><img src="https://img.shields.io/badge/LinkedIn-André_Costa-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -70,6 +64,12 @@ Decades of hands-on experience designing, scaling, and maintaining mission-criti
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=allc-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allc-dev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+
+  <br/><br/>
+
+  <a href="https://wakatime.com/@cea0656c-6d19-4df8-86c9-3e3abee7d832">
+    <img src="https://wakatime.com/badge/user/cea0656c-6d19-4df8-86c9-3e3abee7d832.svg" alt="Total time coded" />
+  </a>
 </div>
 
 ---
