@@ -1,8 +1,8 @@
 <p align="center"><img src="assets/brand/banner.png" alt="allc.dev — Thoughtful apps. Independently built." /></p>
 
-# Hi, I’m André.
+# Hi, I’m André Costa.
 
-I’m the solo developer behind **[allc.dev](https://allc.dev)**. I build useful apps with care, and keep improving them with your feedback.
+I’m the solo developer behind **allc.dev**. I build useful apps with care, and keep improving them with your feedback.
 
 My background is in software architecture, working with Delphi, PHP/Laravel, Vue and Flutter. Here, I share the independent products I design, build and maintain.
 
@@ -28,10 +28,6 @@ Bíblia and BookQuest are available in Portuguese. Check each Google Play listin
 
 ## Made with care. Improved together.
 
-Have a suggestion or found a bug? Your feedback helps me decide what to improve next. You can reach me through [the website](https://allc.dev/#contact), by [email](mailto:allc.dev@outlook.com) or [WhatsApp](https://wa.me/5512988543055).
+Have a suggestion or found a bug? Your feedback helps me decide what to improve next. Use the contact links above to get in touch.
 
 **ALLC PRO** is the existing subscription shared across my apps. Benefits and subscription options are explained inside each app.
-
----
-
-[Website](https://allc.dev) · [Google Play](https://apps.allc.dev) · [YouTube](https://www.youtube.com/@allc-dev) · [WhatsApp](https://wa.me/5512988543055)
