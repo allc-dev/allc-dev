@@ -1,10 +1,10 @@
-<p align="center"><img src="assets/brand/banner.png" alt="allc.dev — Useful apps. Independently built." /></p>
+<p align="center"><img src="assets/brand/banner.png" alt="allc.dev — Everyday apps. Ideas turned into tools." /></p>
 
 # Hi, I’m André Costa.
 
-I’m the solo developer behind **allc.dev**. I build apps for everyday life and improve them with your feedback.
+I’m André Costa, and I create the apps at **allc.dev**. Here I share what I’m building, what’s new, and the improvements inspired by your feedback.
 
-My background is in software architecture, working with Delphi, PHP/Laravel, Vue and Flutter. Here, I share the independent products I design, build and maintain.
+My background is in software architecture, working with Delphi, PHP/Laravel, Vue and Flutter. Here, I share the apps I design, build and maintain.
 
 **[Explore the apps](https://allc.dev/#apps)** · **[Google Play](https://apps.allc.dev)** · **[YouTube demos](https://www.youtube.com/@allc-dev)** · **[Email](mailto:allc.dev@outlook.com)** · **[WhatsApp](https://wa.me/5512988543055)**
 
@@ -26,7 +26,7 @@ My background is in software architecture, working with Delphi, PHP/Laravel, Vue
 
 Bíblia and BookQuest are available in Portuguese. Check each Google Play listing for supported languages and availability.
 
-## Built independently. Improved together.
+## From an idea to your everyday life.
 
 Have a suggestion or found a bug? Your feedback helps me decide what to improve next. Use the contact links above to get in touch.
 
