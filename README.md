@@ -6,7 +6,7 @@ I鈥檓 Andr茅 Costa, and I create the apps at **allc.dev**. Here I share what I鈥
 
 My background is in software architecture, working with Delphi, PHP/Laravel, Vue and Flutter. Here, I share the apps I design, build and maintain.
 
-**[Explore the apps](https://allc.dev/#apps)** 路 **[Google Play](https://apps.allc.dev)** 路 **[YouTube demos](https://www.youtube.com/@allc-dev)** 路 **[Email](mailto:allc.dev@outlook.com)** 路 **[WhatsApp](https://wa.me/5512988543055)**
+**[Explore the apps](https://allc.dev/#apps)** 路 **[Google Play](https://apps.allc.dev)** 路 **[YouTube demos](https://www.youtube.com/@allc-dev)**
 
 ## A family of useful apps
 
@@ -28,6 +28,12 @@ B铆blia and BookQuest are available in Portuguese. Check each Google Play listin
 
 ## From an idea to your everyday life.
 
-Have a suggestion or found a bug? Your feedback helps me decide what to improve next. Use the contact links above to get in touch.
+Have a suggestion or found a bug? Your feedback helps me decide what to improve next. Get in touch by **[Email](mailto:allc.dev@outlook.com)** or **[WhatsApp](https://wa.me/5512988543055)**.
 
 **ALLC PRO** is the existing subscription shared across my apps. Benefits and subscription options are explained inside each app.
+
+<p align="center">
+  <a href="https://wakatime.com/@cea0656c-6d19-4df8-86c9-3e3abee7d832">
+    <img src="https://wakatime.com/badge/user/cea0656c-6d19-4df8-86c9-3e3abee7d832.svg" alt="Total time coded" />
+  </a>
+</p>
