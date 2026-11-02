@@ -6,8 +6,6 @@ I’m André Costa, and I create the apps at **allc.dev**. Here I share what I�
 
 My background is in software architecture, working with Delphi, PHP/Laravel, Vue and Flutter. Here, I share the apps I design, build and maintain.
 
-**[Explore the apps](https://allc.dev/#apps)** · **[Google Play](https://apps.allc.dev)** · **[YouTube demos](https://www.youtube.com/@allc-dev)**
-
 ## A family of useful apps
 
 | App | A little help with… |
